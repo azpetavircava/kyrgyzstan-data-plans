@@ -76,3 +76,10 @@ layout: default
 
 　　网络连接让我们在陌生国度也有了安全感——祝你在天山脚下、伊塞克湖畔，信号满格，分享无忧。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Kyrgyzstan SIM 卡购买与激活指南](https://faciylike.github.io/kyrgyzstan-sim-guides)
